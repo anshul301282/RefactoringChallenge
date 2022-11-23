@@ -12,7 +12,7 @@ Below are the details of projects and files.
 ### RefactoringChallenge Project
 
 #### Repositories
-    • IRepositoryAsync – Generic interface to connect database for CURD operations.
+    • IRepositoryAsync – Generic interface to connect database for CRUD operations.
 
     • RepositoryBase – Implemented IRepositoryAsync.
 
@@ -40,3 +40,4 @@ Below are the details of projects and files.
 
 ### APIUnitTest Project
     • OrderUnitTest – 8 Unit test cases for API. 
+    • OrderMockData – Mock data for testing. 
